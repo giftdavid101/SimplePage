@@ -1,0 +1,23 @@
+h1{
+    color:whitesmoke;
+    text-align: left;
+    
+}
+p{
+    font-size: 20px;
+    color: white;
+    text-align: left;
+}
+body{
+    background-color: rgb(117, 1, 1);
+
+}
+img{
+    width: 500px;
+    margin: auto;
+    padding: auto;
+    border-color: 100px; border-color: goldenrod;
+    border-style: solid;
+    border-width: 5px;
+   
+}
