@@ -1,12 +1,12 @@
 h1{
     color:whitesmoke;
-    text-align: left;
+    text-align: center;
     
 }
 p{
     font-size: 20px;
     color: white;
-    text-align: left;
+    text-align: center;
 }
 body{
     background-color: rgb(117, 1, 1);
@@ -15,9 +15,15 @@ body{
 img{
     width: 500px;
     margin: auto;
-    padding: auto;
+    padding: 1px;
     border-color: 100px; border-color: goldenrod;
     border-style: solid;
     border-width: 5px;
    
 }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
